@@ -1,0 +1,2 @@
+# Guitar-Tuner
+This project is designed to tune a standard six-string guitar in standard tuning independent of the type of guitar (i.e. Electric, Acoustic). Hardware needed to accomplish this task was very minimal, only requiring a microphone plugged into a raspberry pi and a 7-segment display accompanied by three LEDs to show output to the user. Complexity came in designing the software, with translating data points into the frequency domain in order to discern a note.
