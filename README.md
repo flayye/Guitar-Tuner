@@ -12,4 +12,4 @@ For this project, we will be using a raspberry pi to create the functionality of
 
 ###
 ![Guitar_2](/images/Guitar_2.jpg = 302x403)
-<img src="/images/Guitar_2.jpg" width="302" height="403">
+<img src="/images/Guitar_2.jpg" width="302" >
