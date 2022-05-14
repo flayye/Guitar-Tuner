@@ -18,3 +18,8 @@ For this project, we will be using a raspberry pi to create the functionality of
 - Simulated Guitar - https://youtu.be/Hci0YMMbkzE 
 - Authentic Electric Guitar - https://youtu.be/1iHikV0RZ6M
 
+---
+
+#### Reference
+- https://makersportal.com/blog/2018/9/13/audio-processing-in-python-part-i-sampling-and-the-fast-fourier-transform
+- https://en.wikipedia.org/wiki/Guitar_tunings
