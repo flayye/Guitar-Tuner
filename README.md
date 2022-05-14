@@ -16,6 +16,6 @@ For this project, we will be using a raspberry pi to create the functionality of
 
 ---
 ## Demo
-Simulated Guitar - https://youtu.be/Hci0YMMbkzE 
-Authentic Electric Guitar - https://youtu.be/1iHikV0RZ6M
+- Simulated Guitar - https://youtu.be/Hci0YMMbkzE 
+- Authentic Electric Guitar - https://youtu.be/1iHikV0RZ6M
 
