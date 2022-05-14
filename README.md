@@ -1,7 +1,7 @@
 # Guitar-Tuner
 
 
-###Contributer:
+### Contributer:
 
 - Manuel Trevino: manuelraul5@tamu.edu
 - Davy He: kuangxihe@tamu.edu
