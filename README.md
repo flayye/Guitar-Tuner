@@ -1,6 +1,5 @@
 # Guitar-Tuner
 
-##
 Contributer:
 
 - Manuel Trevino: manuelraul5@tamu.edu
