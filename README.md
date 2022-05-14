@@ -13,3 +13,9 @@ For this project, we will be using a raspberry pi to create the functionality of
 ###
 
 <img src="/images/Guitar_2.jpg" width="302" height="403" >
+
+---
+## Demo
+Simulated Guitar - https://youtu.be/Hci0YMMbkzE 
+Authentic Electric Guitar - https://youtu.be/1iHikV0RZ6M
+
