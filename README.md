@@ -12,6 +12,7 @@ For this project, we will be using a raspberry pi to create the functionality of
 ###
 
 <img src="/images/Guitar_2.jpg" width="302" height="403" >
+<img src="/images/Guitar_1.jpg" width="302" height="403" >
 
 ---
 #### Demo
