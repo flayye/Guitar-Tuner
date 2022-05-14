@@ -12,6 +12,6 @@ For this project, we will be using a raspberry pi to create the functionality of
 
 
 ##
-![Guitar_1](/images/Guitar_1.PNG)
+![Guitar_1](/images/Guitar_1.jpg)
 ###
-![Guitar_2](/images/Guitar_2.PNG)
+![Guitar_2](/images/Guitar_2.jpg)
