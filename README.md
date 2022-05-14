@@ -1,2 +1,10 @@
 # Guitar-Tuner
-Strings on a guitar are very fine tuned, where thickness of the string and its tension are both in play to create a single note. To create even more notes, frets are pressed which allow for the creation of infinite melodies and chords. Both the constant pressure from the player on the strings and the strings natural tendency to untension cause a guitar to fall out of tune, throwing off any intended note meant to be played. Therefore, this automatic guitar tuner is a tool in order to easily fix this issue, eliminating the need for a fine tuned ear. Every sound has a frequency, of course including notes played by plucking guitar strings. These specific notes  (E, A, D, G, B, E4) have defined frequencies and can be probed for in order to give a readout to players.
+
+
+###Contributer:
+
+- Manuel Trevino: manuelraul5@tamu.edu
+- Davy He: kuangxihe@tamu.edu
+
+
+For this project, we will be using a raspberry pi to create the functionality of a guitar tuner. A microphone will have input read directly to the PI, which will analyze sound for frequencies. These frequencies will be compared to stored data values and a 7-segment display will show the closest note being played, along with LEDs signaling whether the note is slightly too flat or sharp.
